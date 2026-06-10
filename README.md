@@ -18,4 +18,4 @@ Created using Figma (3 screens)
 - Add Task Screen
 
 ## Figma Link
-PASTE YOUR FIGMA LINK HERE
+https://www.figma.com/design/6VwU2jUKfZehLgQ4t6807J/Untitled?t=dwrdiWgEOXiwIwXN-1
